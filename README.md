@@ -1,1 +1,2 @@
 # Loan-Analysis-Prediction
+The Loan Analysis Prediction project uses Logistic Regression to predict whether a loan will be approved or denied based on various features. This project is built with Flask to create a simple web application that allows users to input loan applicant data and receive predictions. The trained model and scaler are saved as .pkl files for easy integration into the Flask application.
